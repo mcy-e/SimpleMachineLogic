@@ -11,7 +11,7 @@ Both projects are designed for educational purposes and demonstrate the use of f
 
 ## 🗂 Project Structure
 
-'''
+'''bash
 ├── Elevator/
 │──...
 ├── TrafficLight/
