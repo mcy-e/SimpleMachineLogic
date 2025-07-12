@@ -11,17 +11,14 @@ Both projects are designed for educational purposes and demonstrate the use of f
 
 ## 🗂 Project Structure
 
-.
+
 ├── Elevator/
-│ └── ElevatorDocumentation.pdf
+│──...
 ├── TrafficLight/
-│ └── TrafficLightDocumentation.pdf
+│──...
 ├── LICENSE
 └── README.md
 
-yaml
-Copy
-Edit
 
 ---
 
@@ -36,7 +33,7 @@ A simple 2-floor or 3-floor elevator model designed with FSM logic. It simulates
 - Floor transitions
 - Idle/waiting states
 
-📄 [ElevatorDocumentation.pdf](./Elevator/ElevatorDocumentation.pdf) – detailed explanation of the design.
+📄 [ElevatorDocumentation.pdf](./Elevator/ElevatorControlSystemDocumentaion.pdf) – detailed explanation of the design.
 
 ---
 
@@ -62,7 +59,7 @@ A basic traffic light controller for a 2-way intersection. It features:
 
 ## 📜 License
 
-This project is licensed under the terms of the GNU2.0 License. See the [LICENSE](./LICENSE) file for more details.
+This project is licensed under the terms of the GNU 2.0 License. See the [LICENSE](./LICENSE) file for more details.
 
 ---
 
